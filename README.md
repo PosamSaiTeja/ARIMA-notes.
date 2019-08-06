@@ -92,6 +92,7 @@ Estimation algorithm begins by forecasting backward into the past to get start-u
 _Unit roots:_
 
 Look at sum of AR coefficients and sum of MA coefficients—if they are too close to 1 you may want to consider higher or lower of differencing.
+
 _Overdifferencing:_
 
 A series that has been differenced one too many times will show very strong negative auto-correlation and a strong MA signature,probably with a unit root in MA coefficients.
