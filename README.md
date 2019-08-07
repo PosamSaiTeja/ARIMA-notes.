@@ -1,4 +1,5 @@
 # Auto-Regressive Integrated Moving Average
+![](https://github.com/PosamSaiTeja/ARIMA-notes./blob/master/download.png)
 
 ##   ARIMA models: 
 Auto-Regressive Integrated Moving Averages 
